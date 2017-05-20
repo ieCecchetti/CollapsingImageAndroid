@@ -1,6 +1,20 @@
 <resources>
     <string name="app_name">CollapsingImageAndroid</string>
+
     <string name="card_one">First fucking Card man</string>
+    <string name="card_one_text">
+        Android è un sistema operativo per dispositivi mobili sviluppato da Google Inc. e basato sul kernel Linux; non è però da considerarsi propriamente
+        un sistema unix-like o una distribuzione GNU/Linux,[3][4] dato che la quasi totalità delle utilità GNU è sostituita da software in Java.
+    </string>
+
     <string name="card_two">Second fucking Card man</string>
+    <string name="card_two_text">
+        Android è un sistema operativo per dispositivi mobili sviluppato da Google Inc. e basato sul kernel Linux; non è però da considerarsi propriamente
+        un sistema unix-like o una distribuzione GNU/Linux,[3][4] dato che la quasi totalità delle utilità GNU è sostituita da software in Java.
+    </string>
     <string name="card_three">Third fucking Card man</string>
+    <string name="card_three_text">
+        Android è un sistema operativo per dispositivi mobili sviluppato da Google Inc. e basato sul kernel Linux; non è però da considerarsi propriamente
+        un sistema unix-like o una distribuzione GNU/Linux,[3][4] dato che la quasi totalità delle utilità GNU è sostituita da software in Java.
+    </string>
 </resources>
